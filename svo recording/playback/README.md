@@ -36,8 +36,8 @@ Open a terminal in the sample directory and execute the following command:
 
 Open a terminal in build directory and execute the following command:
 
-     ./ZED_SVO_Recording [arg]
+     ./ZED_SVO_Playback [path to SVO file]
 
 Example :
 
-     ./ZED_SVO_Recording "./mysvo.svo"
+     ./ZED_SVO_Playback mysvo.svo
